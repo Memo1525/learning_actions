@@ -1,2 +1,3 @@
 # learning_actions
-a repo for learning git_hub actions
+Repo for learning git_hub actions
+:)
